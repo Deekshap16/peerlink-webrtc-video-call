@@ -1,3 +1,6 @@
+## Project Preview
+
+![PEERLINK UI]()
 ## PEERLINK – WebRTC Video Calling (MERN Stack)
 
 PEERLINK is a clean and professional peer-to-peer video calling web application inspired by Google Meet, built with the MERN stack, WebRTC, and Socket.IO.
